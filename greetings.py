@@ -1,8 +1,6 @@
 def main():
-
-
-    print('hello world')
-    print("What is your name?")
+    # print('Hello There')
+    # print("What is your name?")
 
     myName = input()
 
@@ -14,6 +12,11 @@ def main():
     myAge = input()
 
     print('You will be ' + str(int(myAge) + 1) + ' in a year')
+
+
+    # print('choose a number')
+    #  spam = input()
+    # print(spam)
 
 
 if __name__ == '__main__': main()
