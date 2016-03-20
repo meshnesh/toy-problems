@@ -8,7 +8,14 @@ def multiples(num):
 
 
 def main():
-    multiples(1000)
+
+#     print('What is you number? ')
+#
+#     multiples = input()
+#
+# print('The sum of the multiples is, ' +)
+#     #
+ multiples(10)
 
 
 if __name__ == '__main__': main()
