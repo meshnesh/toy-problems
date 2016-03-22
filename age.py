@@ -12,6 +12,7 @@ def main():
     elif age > 50:
         print('Damn biach you too old')
 
+
     elif age >2000:
         print('Unlike you Monikah is not an undead, vampire')
 
