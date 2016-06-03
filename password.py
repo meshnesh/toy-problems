@@ -15,11 +15,11 @@ def main():
     else:
         print('Wrong password Biach')
 
-    #      if userName == 'django':
-    #     print('Access granted')
-    #
-    # elif userName != 'django':
-    #     print('Wrong username')
+    if userName == 'django':
+        print('Access granted')
+    
+    elif userName != 'django':
+        print('Wrong username')
 
 
 if __name__ == '__main__': main()
