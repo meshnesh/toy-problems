@@ -1,3 +1,6 @@
+// READING TEXT FILE SYNCHRONOUSLY USING FILE SYSTEMS IN NODEJS
+
+
 var fs = require('fs');
 var content = fs.readFileSync('./config.json');
 console.log("content: " + content);
